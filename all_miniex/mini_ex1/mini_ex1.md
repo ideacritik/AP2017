@@ -1,4 +1,4 @@
-# Weekly mini ex1: due week 7 - Net Art Review
+# ex1: Net Art Review
 	
 1. Read [Web Work: A history of Internet Art by Rachel Greene](http://cyberhouse.arted.psu.edu/visualculture/history_net_art.pdf)  
 	
@@ -13,3 +13,4 @@
   + Epiphanies (2001) and AdWords Happening (2002) by Christophe Bruno | [work1](http://www.iterature.com/epiphanies/) and [work2](http://www.iterature.com/adwords/) |  [article](http://www.electronicbookreview.com/thread/electropoetics/textualized)
 
 3. Answer the following questions: Which work have you chosen? What is it? How does the work operate and what kind of software/programming language was used? Can you try to look at the source code and decode some of the logics? Who is the artist and what is her/his background? What is the concept? What do you like about it? 
+> Post to blog.
