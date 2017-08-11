@@ -1,6 +1,6 @@
-# Weekly mini ex9: due 16 Apr (Sun) - Working with APIs
+# Working with APIs
 
-1) First, take a deep breath. This mini exercise may require sometimes to do it. If you like you can work in a group of 2 people.
+1) First, take a deep breath. This mini exercise may requires time. You have 2 weeks to work on it.
 
 2) Design a program that utilizes a web API (below is just a suggestion, and you can search for others). You need to pay attention to your process of acquiring, processing, using and representing data.
 
@@ -16,10 +16,9 @@
   
 >> for those APIs require OAuth, you need [Node.js](https://nodejs.org/en/). See what is Node [here](https://www.youtube.com/watch?v=RF5_MPSNAtU&index=1&list=PLRqwX-V7Uu6atTSxoRiVnSuOn6JHnq2yV) for 15.1 and 15.2
 
-3) Upload your sketch in a directory called "miniex9". Create a README file and upload to the same directory. The readme file should address the following: 
+3) Upload your sketch to your blog and include: 
 - Which API have you chosen? and Why? 
-- Please indicate if your work requires to download and run on our own computer. (As for mine, github doesn't work for me that's why I have to upload to my own server and ask you to download it to run on your computer)
+- Please indicate if your work requires to download and run on our own computer. 
 - Can you describe your process of making this mini exercise in terms of acquiring, processing, using and representing data?
 - What is your reflection on the aesthetics of (big) data? 
 
-4)	Provide peer-feedback to 2 of your classmates on their works. Write with the issue title "Feedback on mini_ex(?) by (YOUR FULL NAME)".
